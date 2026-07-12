@@ -1,11 +1,19 @@
 #EXTM3U
 #EXTINF:-1,A Mind Is Born (256 bytes)
-./A Mind Is Born (256 bytes).opus
+08-chiptune/A Mind Is Born (256 bytes).opus
+#EXTINF:-1,jujutsu_kaisen_8bit
+08-chiptune/jujutsu_kaisen_8bit.opus
+#EXTINF:-1,lagtrain_8bit
+08-chiptune/lagtrain_8bit.opus
 #EXTINF:-1,LukHash – Megawave ｜ Funky 8-Bit Retro Gaming Chiptune (Sega, C64, Amiga)
-./LukHash – Megawave ｜ Funky 8-Bit Retro Gaming Chiptune (Sega, C64, Amiga).opus
+08-chiptune/LukHash – Megawave ｜ Funky 8-Bit Retro Gaming Chiptune (Sega, C64, Amiga).opus
 #EXTINF:-1,MASTER BOOT RECORD & Dubmood - E1M777
-./MASTER BOOT RECORD & Dubmood - E1M777.opus
+08-chiptune/MASTER BOOT RECORD & Dubmood - E1M777.opus
+#EXTINF:-1,oshi_no_ko_8bit
+08-chiptune/oshi_no_ko_8bit.opus
 #EXTINF:-1,Spectra
-./Spectra.opus
+08-chiptune/Spectra.opus
+#EXTINF:-1,telepathy_8bit
+08-chiptune/telepathy_8bit.opus
 #EXTINF:-1,zabutom - star wizard (2026)
-./zabutom - star wizard (2026).opus
+08-chiptune/zabutom - star wizard (2026).opus
